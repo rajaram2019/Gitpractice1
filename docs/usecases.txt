@@ -2,6 +2,7 @@
  1. Build this code base from jenkins.
  2. Deploy the code to tomcat server.
  3. Use any configuration Management tool for acheiving this.
+ 4. create a Docerfile also for this app.
 
 ##Testers
 1. Execute smoke tests on premise and cloud deployement.
